@@ -1,0 +1,3 @@
+D:/3rd year 1st Term/Files/Labs/hjhhjjhj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/3rd year 1st Term/Files/Labs/hjhhjjhj/cmake-build-debug/CMakeFiles/hjhhjjhj.dir
+D:/3rd year 1st Term/Files/Labs/hjhhjjhj/cmake-build-debug/CMakeFiles/edit_cache.dir
