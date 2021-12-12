@@ -1,0 +1,3 @@
+D:/3rd year 1st Term/Files/Project/indexFile&secondaryFile/cmake-build-debug/CMakeFiles/assgin1.dir
+D:/3rd year 1st Term/Files/Project/indexFile&secondaryFile/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/3rd year 1st Term/Files/Project/indexFile&secondaryFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
